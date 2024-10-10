@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vaibhav-zaptech
+- 👋 Hi, I’m Vaibhav Joshi
 - 👀 I’m interested in MERN and mobile developent
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on MERN and React-Native
