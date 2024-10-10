@@ -3,7 +3,24 @@
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on MERN and React-Native
 
-<!---
-vaibhav-zaptech/vaibhav-zaptech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hello there! I'm [Vaibhav](https://github.com/vaibhav-zaptech)
+
+Welcome to my corner of GitHub! Here’s a little about me:
+
+- 🌟 **Passionate Developer**: I specialize in **MERN stack** and **mobile development**. I love turning ideas into reality with code!
+- 📚 **Always Learning**: Currently diving into **Next.js**—excited to explore its capabilities and enhance my web development skills!
+- 🤝 **Collaboration Enthusiast**: I’m eager to collaborate on projects involving **MERN** and **React Native**. Let’s build something amazing together!
+
+## 🌍 What I’m Working On
+
+I’m actively contributing to various open-source projects and personal endeavors. Check out my repositories for some cool projects!
+
+## 💬 Let’s Connect
+
+Feel free to reach out if you’re interested in collaborating or just want to chat about tech!
+
+- [Twitter](https://twitter.com/yourprofile)
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+
+Thanks for stopping by! 🚀
+
